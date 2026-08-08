@@ -1,4 +1,4 @@
-<img src="https://socialify.git.ci/GeorgeSew/GeorgeSew/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fdevicons%2Fdevicon%2Fmaster%2Ficons%2Fjava%2Fjava-original.svg&name=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="GeorgeSew" />
+<img src="https://socialify.git.ci/GeorgeSew/GeorgeSew/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fdevicons%2Fdevicon%2Fmaster%2Ficons%2Fjava%2Fjava-original.svg&name=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="GeorgeSew Banner" width="100%" />
 
 # Hi there, I'm George 👋
 
@@ -35,9 +35,10 @@ I specialize in building structured software applications, database-driven backe
 
 ### ⚡ Featured Projects
 
-- 🏦 **NovaBank-System** — Collaborative Java banking application featuring custom Data Access Objects (DAO pattern), relational database integration, and Git feature-branch workflows.
+- 🏦 **[NovaBank-System](https://github.com/securebankproject2025-dev/NovaBank-System)** — Collaborative Java banking application featuring custom Data Access Objects (DAO pattern), relational database integration, and Git feature-branch workflows.
 
 ---
+
 ### 📊 GitHub Stats
 
 <p align="left">
