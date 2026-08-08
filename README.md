@@ -28,7 +28,3 @@ I specialize in building structured software applications, database-driven backe
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeSew&theme=tokyonight" alt="George's GitHub Streak" />
 </p>
-
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeSew&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
