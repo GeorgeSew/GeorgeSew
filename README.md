@@ -1,3 +1,5 @@
+<img src="https://socialify.git.ci/GeorgeSew/GeorgeSew/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fdevicons%2Fdevicon%2Fmaster%2Ficons%2Fjava%2Fjava-original.svg&name=1&owner=1&pulls=1&stargazers=1&theme=Dark" alt="GeorgeSew" />
+
 # Hi there, I'm George 👋
 
 🎓 **Systems Development Student** | 💻 **Java & Backend Developer**
