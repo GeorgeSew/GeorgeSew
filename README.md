@@ -23,11 +23,12 @@ I specialize in building structured software applications, database-driven backe
 - 🏦 **NovaBank-System** — Collaborative Java banking application featuring custom Data Access Objects (DAO pattern), relational database integration, and Git feature-branch workflows.
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgeSew&show_icons=true&theme=tokyonight" alt="George's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgeSew&theme=tokyonight" alt="George's GitHub Streak" />
+</p>
+
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeSew&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
